@@ -28,19 +28,19 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 🔖 Layout
 
 <h1 align="center">
-  <img alt="inicio" title="inicio" src="img1.JPG" width="900px" />
+  <img alt="inicio" title="inicio" src="./imagens/img5.JPG" width="900px" />
 </h1>
 
 <h1 align="center">
-  <img alt="inicio" title="inicio" src="img2.JPG" width="900px" />
+  <img alt="inicio" title="inicio" src="./imagens/img6.JPG" width="900px" />
 </h1>
 
 <h1 align="center">
-  <img alt="inicio" title="inicio" src="img3.JPG" width="900px" />
+  <img alt="inicio" title="inicio" src="./imagens/img7.JPG" width="900px" />
 </h1>
 
 <h1 align="center">
-  <img alt="inicio" title="inicio" src="img4.JPG" width="900px" />
+  <img alt="inicio" title="inicio" src="./imagens/img8.JPG" width="900px" />
 </h1>
 
 ## :memo: Licença
@@ -49,4 +49,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](/LICENSE.md) par
 
 ---
 
-Feito por Brenda Orlandi, referência: NLW#4 Rocketseat.
+Feito por Brenda Orlandi.
